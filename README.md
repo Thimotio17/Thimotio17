@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Thimotio
+Lucas Thimotio
 
 ### Desenvolvedor de Sistemas • Frontend & Backend
 
@@ -8,7 +8,7 @@ Tenho foco na criação de sistemas funcionais, organizados e escaláveis, traba
 
 ---
 
-## 🚀 Sobre mim
+Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando transformar problemas reais em soluções simples, eficientes e fáceis de manter.
 
@@ -23,8 +23,6 @@ Também tenho experiência com **PostgreSQL, MongoDB, Docker, Linux, Git e GitHu
 Gosto de entender como cada parte de uma aplicação se conecta — do banco de dados à interface — e busco constantemente melhorar meus conhecimentos em arquitetura, desempenho, organização de código e boas práticas de desenvolvimento.
 
 ---
-
-## 💻 O que eu desenvolvo
 
 * 🌐 Aplicações Web
 * 🖥️ Sistemas personalizados
