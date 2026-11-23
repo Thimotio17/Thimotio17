@@ -1,4 +1,4 @@
-Lucas Thimotio
+                                                                    Lucas Thimotio
 
 ### Desenvolvedor de Sistemas • Frontend & Backend
 
@@ -8,7 +8,7 @@ Tenho foco na criação de sistemas funcionais, organizados e escaláveis, traba
 
 ---
 
-Sobre mim
+                                                                      Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando transformar problemas reais em soluções simples, eficientes e fáceis de manter.
 
